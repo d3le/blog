@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'd3le\'s blog',
   tagline: 'The tagline of my site',
   url: 'https://d3le.github.io',
   baseUrl: '/blog/',
@@ -10,9 +10,9 @@ module.exports = {
   projectName: 'blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'd3le\'s blog',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Blog Logo',
         src: 'img/logo.svg',
       },
       items: [
